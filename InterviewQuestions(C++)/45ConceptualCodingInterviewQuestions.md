@@ -1,7 +1,9 @@
 # Conceptual Coding Interview Questions
 ### 21.) What is a data structure? <br>
 ### 22.) What is an array? <br>
+An array is a collection of elements of the same size or data type at contiguous memory locations.
 ### 23.) What is a linked list? <br>
+A linked list is a data structure built with nodes comprised of data and a pointer to the next node. A head pointer indicates the start of a linked list and the end signified by a pointer to NULL.
 ### 24.) What is the difference between an array and a linked list? <br>
 ### 25.) What is LIFO? <br>
 ### 26.) What is FIFO? <br>
