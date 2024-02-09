@@ -1,7 +1,7 @@
 https://www.theforage.com/blog/interview-questions/coding-interview-questions
 
 # Common Programming Interview Questions
-1.) How do you reverse a string?
+1.) How do you reverse a string? <br>
 2.) How do you determine if a string is a palindrome?
 3.) How do you calculate the number of numerical digits in a string?
 4.) How do you find the count for the occurrence of a particular character in a string?
