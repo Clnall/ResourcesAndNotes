@@ -14,7 +14,9 @@ Resizing a linked list is attaching the previous node's pointer to the new node 
 Resizing an array involves creating a new array of the appropiate size and copying the old array into it then adding the new data.
 
 ### 25.) What is LIFO? <br>
+Last In First Out. Example Stack
 ### 26.) What is FIFO? <br>
+First In First Out. Example Queue
 ### 27.) What is a stack? <br>
 ### 28.) What are binary trees? <br>
 ### 29.) What are binary search trees? <br>
