@@ -25,4 +25,5 @@ First In First Out. Example Queue
 ### 32.) What is a conditional statement? <br>
 ### 33.) What is debugging? <br>
 ### 34.) What is recursion? <br>
+A class that calls itself with a break condition.
 ### 35.) What are the differences between linear and non-linear data structures? <br>
