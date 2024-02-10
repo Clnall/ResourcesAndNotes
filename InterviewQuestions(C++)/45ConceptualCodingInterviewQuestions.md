@@ -21,7 +21,7 @@ First In First Out. Example Queue
 ### 27.) What is a stack? <br>
 A stack is a data structure with two operations push and pop only executable at the end of the list.
 ### 28.) What are binary trees? <br>
-
+Binary tree is a data structure with left or right traversal of at most two children node.
 ### 29.) What are binary search trees? <br>
 
 ### 30.) What is object-oriented programming? <br>
