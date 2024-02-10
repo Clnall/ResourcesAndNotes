@@ -25,7 +25,7 @@ A binary tree is a data structure with left or right traversal of at most two ch
 ### 29.) What are binary search trees? <br>
 A binary search tree is a sorted binary tree where left sub nodes are less than the key node and right sub nodes are greater than the key node for all of the tree.
 ### 30.) What is object-oriented programming? <br>
-
+Object oriented programming is a paradigm of creating objects that have fields and methods then having those object interact with each other.
 ### 31.) What is the purpose of a loop in programming? <br>
 The purpose of loops in programming is to repeat a block of code some amount of times depending on the conditional statement.
 ### 32.) What is a conditional statement? <br>
