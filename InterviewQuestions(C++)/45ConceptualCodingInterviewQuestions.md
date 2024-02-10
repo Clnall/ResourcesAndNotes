@@ -24,7 +24,9 @@ First In First Out. Example Queue
 ### 30.) What is object-oriented programming? <br>
 ### 31.) What is the purpose of a loop in programming? <br>
 ### 32.) What is a conditional statement? <br>
+A conditional statement is a statement that can be evaluate as true or false.
 ### 33.) What is debugging? <br>
+Debugging is the process of finding and correcting errors in code. Examples of some errors could be in syntax, scope, or function.
 ### 34.) What is recursion? <br>
 A class that calls itself with a break condition.
 ### 35.) What are the differences between linear and non-linear data structures? <br>
