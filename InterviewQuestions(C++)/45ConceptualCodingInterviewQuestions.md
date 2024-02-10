@@ -23,6 +23,7 @@ First In First Out. Example Queue
 ### 29.) What are binary search trees? <br>
 ### 30.) What is object-oriented programming? <br>
 ### 31.) What is the purpose of a loop in programming? <br>
+The purpose of loops in programming is to repeat a block of code some amount of times depending on the conditional statement.
 ### 32.) What is a conditional statement? <br>
 A conditional statement is a statement that can be evaluate as true or false.
 ### 33.) What is debugging? <br>
