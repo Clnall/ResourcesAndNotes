@@ -23,7 +23,7 @@ A stack is a data structure with two operations push and pop only executable at 
 ### 28.) What are binary trees? <br>
 A binary tree is a data structure with left or right traversal of at most two children nodes.
 ### 29.) What are binary search trees? <br>
-
+A binary search tree is a sorted binary tree where left sub nodes are less than the key node and right sub nodes are greater than the key node for all of the tree.
 ### 30.) What is object-oriented programming? <br>
 
 ### 31.) What is the purpose of a loop in programming? <br>
