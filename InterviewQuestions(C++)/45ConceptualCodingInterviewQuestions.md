@@ -33,6 +33,6 @@ A conditional statement is a statement that can be evaluate as true or false.
 ### 33.) What is debugging? <br>
 Debugging is the process of finding and correcting errors in code. Examples of some errors could be in syntax, scope, or function.
 ### 34.) What is recursion? <br>
-A class that calls itself with a break condition.
+A function that calls itself with a break condition.
 ### 35.) What are the differences between linear and non-linear data structures? <br>
 The difference between a linear and non-linear data structure is that a linear data strucutre can only have at most one element before and after another element hence linear while non-linear can have more that one element before or after another element. Examples of linear data structure are linked lists, arrays, queues, and stacks. Examples of non-linear data structures are binary trees and graphs.
