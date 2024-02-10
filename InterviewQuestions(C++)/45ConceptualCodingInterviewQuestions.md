@@ -1,5 +1,6 @@
 # Conceptual Coding Interview Questions
 ### 21.) What is a data structure? <br>
+A data structure is a storing and managing construct of data where there is a relationship between data.
 ### 22.) What is an array? <br>
 An array is a collection of elements of the same size or data type at contiguous memory locations.
 ### 23.) What is a linked list? <br>
