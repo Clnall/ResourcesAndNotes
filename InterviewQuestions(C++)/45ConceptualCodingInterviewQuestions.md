@@ -19,9 +19,13 @@ Last In First Out. Example Stack
 ### 26.) What is FIFO? <br>
 First In First Out. Example Queue
 ### 27.) What is a stack? <br>
+A stack is a data structure with two operations push and pop only executable at the end of the list.
 ### 28.) What are binary trees? <br>
+
 ### 29.) What are binary search trees? <br>
+
 ### 30.) What is object-oriented programming? <br>
+
 ### 31.) What is the purpose of a loop in programming? <br>
 The purpose of loops in programming is to repeat a block of code some amount of times depending on the conditional statement.
 ### 32.) What is a conditional statement? <br>
