@@ -1,4 +1,5 @@
-References:
+### References:
+
 [9 Critical Responsibilities of an IT Security Manager](https://www.bitsight.com/blog/responsibilities-cybersecurity-manager)
 - Written by Eric Cisternelli and published November 18, 2022
 - Roles: technical security manager vs program security manager
