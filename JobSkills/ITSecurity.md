@@ -1,6 +1,5 @@
 ### References:
-
-[9 Critical Responsibilities of an IT Security Manager](https://www.bitsight.com/blog/responsibilities-cybersecurity-manager)
+[9 Critical Responsibilities of an IT Security Manager](https://www.bitsight.com/blog/responsibilities-cybersecurity-manager) <br>
 - Written by Eric Cisternelli and published November 18, 2022
 - Roles: technical security manager vs program security manager
   - technical security manager is responsible for security systems: firewalls, data protection controls, patching, encryption, vulnerability scanning, pen testing, etc.
